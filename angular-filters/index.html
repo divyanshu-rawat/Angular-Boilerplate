@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html ng-app='MsgApp'>
+  <head>
+    <meta charset="utf-8">
+
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <script src="angular.min.js"></script>
+
+    <script src="app.js"></script>
+    
+    <style>
+
+       body { font-size: 1.2em; }
+       .pad_o{
+
+        padding-left: 0px;
+        padding-right: 0px;
+
+       }
+       </style>
+    
+<title>Custom Filters</title>
+
+  </head>
+  <body>
+    
+    <div ng-controller='MsgController' class="col-lg-12 col-md-12 xol-sm-12 col-xs-12">
+
+      <h3>Custom Filters</h3>
+
+            Original: {{sayMessage()}} <br>
+            Loves: {{ sayLovesMessage() }} <br>
+            Truth: {{ sayLovesMessage() | truth : 'healthy' : 'food' }} <br>
+
+      <!-- BIG TRUTH: {{ sayLovesMessage() | truth : 'healthy' : 'cookie' | uppercase }} -->
+      <div>
+      </div>
+    </div>
+  </body>
+</html>
