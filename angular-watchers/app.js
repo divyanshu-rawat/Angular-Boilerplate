@@ -8,7 +8,7 @@ CounterController.$inject = ['$scope'];
 function CounterController($scope) {
   $scope.onceCounter = 0;
   $scope.counter = 0;
-  $scope.name = "Yaakov";
+  $scope.name = "Divyanshu";
 
   $scope.showNumberOfWatchers = function () {
     console.log("# of Watchers: ", $scope.$$watchersCount);
