@@ -88,5 +88,8 @@ Project In Progress :)
 
 ##
 
+11.[Asynchronous Behavior, Promises and Ajax in Angular](https://github.com/divyanshu-rawat/Promise-App)
 
+* Asynchronous Behavior with Promises and $q
+* Ajax with $http Service
 
