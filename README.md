@@ -93,3 +93,28 @@ Project In Progress :)
 * Asynchronous Behavior with Promises and $q
 * Ajax with $http Service
 
+##
+
+12.[Introduction to Custom Directives](https://github.com/divyanshu-rawat/angular-boilerplate/tree/master/custom-directives)
+
+* Directives: Dynamic HTML
+* Directive’s Isolate Scope: “=” and “@”
+* Using Controllers Inside Directives
+
+##
+
+13.[Directive APIs](https://github.com/divyanshu-rawat/angular-boilerplate/tree/master/directive-API)
+
+* Directive APIs and “&”
+
+##
+
+14.[Manipulating the DOM](https://github.com/divyanshu-rawat/angular-boilerplate/tree/master/JQuery%20Injection)
+
+* Manipulating the DOM with link
+
+##
+
+15.[transclude](https://github.com/divyanshu-rawat/angular-boilerplate/tree/master/transclude%20Angular%20JS)
+
+* Using Directive’s transclude to Wrap Other Elements
