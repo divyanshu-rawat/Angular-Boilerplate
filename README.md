@@ -118,3 +118,9 @@ Project In Progress :)
 15.[transclude](https://github.com/divyanshu-rawat/angular-boilerplate/tree/master/transclude%20Angular%20JS)
 
 * Using Directive’s transclude to Wrap Other Elements
+
+##
+
+16.[AngularJS Event System](https://github.com/divyanshu-rawat/Publish-Subscribe)
+
+* Angular JS Publish-SUbscribe design pattern covered !
