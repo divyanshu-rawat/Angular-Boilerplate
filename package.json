@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "angular js boilerplate",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyanshu-rawat/Angular-Boilerplate.git"
+  },
+  "keywords": [
+    "angular",
+    "js",
+    "boilerplate",
+    "javascript"
+  ],
+  "author": "divyanshu rawat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/divyanshu-rawat/Angular-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/divyanshu-rawat/Angular-Boilerplate#readme"
+}
