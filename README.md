@@ -151,4 +151,18 @@ Project In Progress :)
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/divyanshu-rawat)
 
+##
 
+### Contributing
+
+1. Create your **_branch_**: `git checkout -b my-new-feature`
+
+2. **_Commit_** your changes: `git commit -m 'Add some feature'`
+
+3. **_Push_** to the branch: `git push origin my-new-feature`
+
+4. Send a **Pull Request**
+
+5. **_Enjoy!_**
+
+##
