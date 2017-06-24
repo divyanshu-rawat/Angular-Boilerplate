@@ -151,8 +151,6 @@ Project In Progress :)
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/divyanshu-rawat)
 
-##
-
 ### Contributing
 
 1. Create your **_branch_**: `git checkout -b my-new-feature`
