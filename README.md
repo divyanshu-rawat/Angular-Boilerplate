@@ -1,18 +1,17 @@
-# angular-boilerplate
+## angular-boilerplate
 AngularJS Boilerplate to kick start your new project.
 Project In Progress :) 
 
-#### For Any Query Ping Me
-
 [![Join the chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/divyanshu001)
-
-##
-
-#### Contact Me
-
 [![Contact me on Codementor](https://cdn.codementor.io/badges/contact_me_github.svg)](https://www.codementor.io/divyanshurawat?utm_source=github&utm_medium=button&utm_term=divyanshurawat&utm_campaign=github)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/r46956)
+[![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=flat)](https://divyanshu.mit-license.org/)
 
-##
+[![Divyanshu](https://img.shields.io/badge/divyanshu-owner-brightgreen.svg?style=flat)](http://www.divyanshurawat.in)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/divyanshu-rawat)
+[![Build Status](https://travis-ci.org/divyanshu-rawat/JS-Testing.svg?branch=master)](https://travis-ci.org/divyanshu-rawat/JS-Testing)
+[![NPM](https://img.shields.io/badge/npm-v3.10.10-blue.svg)](https://www.npmjs.com/package/npm)
+
 
 
 ## Topics Discussed
@@ -123,4 +122,33 @@ Project In Progress :)
 
 16.[AngularJS Event System](https://github.com/divyanshu-rawat/Publish-Subscribe)
 
-* Angular JS Publish-SUbscribe design pattern covered !
+* Angular JS Publish-Subscribe design pattern covered 
+
+##
+
+17.[Moduler Angular](https://github.com/divyanshu-rawat/Angular-Boilerplate/tree/master/angular-js-modules)
+
+* Modular Angular JS
+
+##
+
+18.Introduction to Single Page Routing With ui-router
+
+* [Routing with controllers](https://github.com/divyanshu-rawat/Angular-Boilerplate/tree/master/ui-router)
+
+##
+
+19.Handling Data with Routing
+
+* [Routing State with resolve](https://github.com/divyanshu-rawat/Angular-Boilerplate/tree/master/routing-resolve)
+* [Routing State with URL Parameters](https://github.com/divyanshu-rawat/Angular-Boilerplate/tree/master/routing-param)
+
+##
+
+20.[Master View Routing](https://github.com/divyanshu-rawat/Angular-Boilerplate/tree/master/master-view-routing)
+
+##
+
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/divyanshu-rawat)
+
+
